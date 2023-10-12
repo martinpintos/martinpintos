@@ -1,4 +1,4 @@
-# Hey, I'm Martin! 👋
+# Hi, I'm Martin! 👋
 
 <details>
 <summary>Statistics</summary>
